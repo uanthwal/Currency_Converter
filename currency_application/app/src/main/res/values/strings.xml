@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">currency_application</string>
+    <string name="base_currency_txt">Enter a Currency Base (ex:USD)</string>
+    <string name="search_btn_txt">SEARCH</string>
+
+</resources>

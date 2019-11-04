@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/curr_txt_lbl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/base_currency_txt"
+        android:textSize="24dp" />
+
+    <EditText
+        android:id="@+id/currency_ip_txt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/curr_txt_lbl"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="currency"/>
+
+    <Button
+        android:id="@+id/search_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/currency_ip_txt"
+        android:layout_centerInParent="true"
+        android:text="@string/search_btn_txt" />
+
+    <ListView
+        android:id="@+id/currency_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/search_btn"
+        android:layout_marginTop="10dp">
+
+    </ListView>
+
+
+</RelativeLayout>
