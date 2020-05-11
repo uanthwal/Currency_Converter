@@ -18,5 +18,5 @@ Dependencies:
 2. Other basic dependencies required to run the android app
 
 Output:
-![App Launch Screen](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_1.png | height=400)
-![Currency Values](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_2.png | height=400)
+![App Launch Screen](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_1.png)
+![Currency Values](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_2.png)
