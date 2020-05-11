@@ -1,4 +1,5 @@
 About:
+
 Currency Converter, an android app that takes a base currency as an input and displays equivalent rates for other currencies.
 
 Functionalities:
@@ -17,5 +18,5 @@ Dependencies:
 2. Other basic dependencies required to run the android app
 
 Output:
-![Image description](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_1.png)
-![Image description](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_2.png)
+![App Launch Screen](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_1.png | height=400)
+![Currency Values](https://github.com/uanthwal/Currency_Converter/blob/master/app_run_picture_2.png | height=400)
